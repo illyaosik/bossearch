@@ -15,7 +15,7 @@
 	<description>Project to find girls in your city</description>
 
 	<properties>
-		<java.version>9</java.version>
+		<java.version>8</java.version>
 	</properties>
 
 	<dependencies>
